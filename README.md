@@ -32,3 +32,5 @@ E.g: cat1.jpg and cat1.txt
 
 - Annotation formatted as: **0 0.525 0.4796875 0.2546875 0.253125**
 - Where first item is label and four floats being bounding-box coordinates **normalized between 1 and 0**. 
+
+Todo: Fix detector.py
